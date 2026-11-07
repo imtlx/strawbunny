@@ -213,7 +213,7 @@ confused_len = $ - confused
 
 secret_msg:
 	db 10
-	db '  ★★★ SECRET ACHIEVEMENT ★★★', 10
+	db '  ★ ★ ★ SECRET ACHIEVEMENT ★ ★ ★', 10
 	db '  STRAWBERRY OVERLORD!!', 10
 	db '  Bunbun bows before you.', 10
 	db '  You are now an honorary bnuuy.', 10, 10
